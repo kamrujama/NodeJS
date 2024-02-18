@@ -1,0 +1,18 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "REST API With Express JS",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Kamrujama Ansari",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
